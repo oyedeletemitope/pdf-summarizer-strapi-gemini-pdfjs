@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "summarized_pdfs",
+  "info": {
+    "singularName": "summarized-pdf",
+    "pluralName": "summarized-pdfs",
+    "displayName": "SummarizedPDF",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Summary": {
+      "type": "text"
+    }
+  }
+}
